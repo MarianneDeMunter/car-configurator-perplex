@@ -8,19 +8,19 @@ export const wheels: WheelOption[] = [
   {
     id: "darkline",
     label: "Apex Darkline",
-    price: 400,
+    price: 0,
     image: darklineImg,
-  },
-  {
-    id: "biTone",
-    label: "TwinForge Bi-Tone",
-    price: 650,
-    image: biToneImg,
   },
   {
     id: "vFlow",
     label: "SilverStream V-Flow",
     price: 300,
     image: vFlowImg,
+  },
+  {
+    id: "biTone",
+    label: "TwinForge Bi-Tone",
+    price: 650,
+    image: biToneImg,
   },
 ];
